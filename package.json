@@ -17,8 +17,7 @@
   ],
   "author": "Kyle Newsome <kyle@bitwit.ca>",
   "license": "ISC",
-  "dependencies": {
-  },
+  "dependencies": {},
   "strider": {
     "type": "job",
     "id": "template",
@@ -33,6 +32,7 @@
   "devDependencies": {
     "chai": "^1.9.1",
     "mocha": "^1.20.1",
-    "sinon-chai": "^2.5.0"
+    "sinon-chai": "^2.5.0",
+    "nomnom": "~1.8.0"
   }
 }
